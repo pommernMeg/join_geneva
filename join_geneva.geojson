@@ -192,6 +192,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/a09d7766800fcee00b000b93d92369e6"
             },
             "id": "67a7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    5.167457,
+                    50.943677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Herk-de-Stad joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/herk-de-stad-joins-enl-in-geneva-79d5",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5f63d3f3c1e37b05565f425114acdde0"
+            },
+            "id": "79d5"
         }
     ]
 }
