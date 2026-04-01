@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.589601,
+                    47.547841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Basel joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/basel-joins-enl-in-geneva-b5c1",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c9863192815caf44fd0a51e8d80a5c36"
+            },
+            "id": "b5c1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -1.611545,
+                    54.978004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Newcastle joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/newcastle-joins-enl-in-geneva-16fb",
+                "picture": "https://api.bannergress.com/bnrs/pictures/2a5d19f1bea5d51b590719ed662dbb2b"
+            },
+            "id": "16fb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -2.094977,
+                    54.973422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hexham joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/hexham-joins-enl-in-geneva-538e",
+                "picture": "https://api.bannergress.com/bnrs/pictures/97fddc9eb9f710afd45237d8ebb7d04c"
+            },
+            "id": "538e"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -1.384825,
+                    54.902191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sunderland joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/sunderland-joins-enl-in-geneva-f6a7",
+                "picture": "https://api.bannergress.com/bnrs/pictures/878241e64fba8bf96e9e24a8d81a3008"
+            },
+            "id": "f6a7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -2.933232,
+                    54.891096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Carlisle joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/carlisle-joins-enl-in-geneva-beba",
+                "picture": "https://api.bannergress.com/bnrs/pictures/92850920402a432d920c88c608b931c4"
+            },
+            "id": "beba"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    16.608594,
+                    49.194805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brno joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/brno-joins-enl-in-geneva-1137",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4b5d97aa97d60a7a3cf79b0a95be6abb"
+            },
+            "id": "1137"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.440571,
+                    46.945506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bern joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/bern-joins-enl-in-geneva-ba6b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ff33bd0e875833a5d9b77d3b5d50bd46"
+            },
+            "id": "ba6b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    10.008397,
+                    53.554324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hamburg joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/hamburg-joins-enl-in-geneva-b597",
+                "picture": "https://api.bannergress.com/bnrs/pictures/97f2a1ef98f02c7921ddb6cce570d053"
+            },
+            "id": "b597"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    116.467583,
+                    39.946435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Beijing joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/beijing-joins-enl-in-geneva-c9b9",
+                "picture": "https://api.bannergress.com/bnrs/pictures/17e717bacf0ccc73f9cb1e9b27a2d18b"
+            },
+            "id": "c9b9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.495266,
+                    40.705776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "#2S Stabia joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/2s-stabia-joins-enl-in-geneva-a1e3",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d9ed2bd32e86daa3da98a184f23a95f2"
+            },
+            "id": "a1e3"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    11.9808,
+                    51.468015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Halle (Saale) joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/halle-saale-joins-enl-in-geneva-440f",
+                "picture": "https://api.bannergress.com/bnrs/pictures/2d57de7efdd5b213d7efdc02ac1aab33"
+            },
+            "id": "440f"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    14.260509,
+                    50.424401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Roudnice nad Labem joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/roudnice-nad-labem-joins-enl-in-geneva-67a7",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a09d7766800fcee00b000b93d92369e6"
+            },
+            "id": "67a7"
+        }
+    ]
+}
