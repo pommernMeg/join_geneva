@@ -85,6 +85,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    9.704725,
+                    49.562237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lauda joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/lauda-joins-enl-in-geneva-4d63",
+                "picture": "https://api.bannergress.com/bnrs/pictures/e37260af448b4a9644533df0e3b010f3"
+            },
+            "id": "4d63"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     16.608594,
                     49.194805
                 ],
