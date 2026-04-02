@@ -133,6 +133,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    5.385263,
+                    52.158995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Amersfoort joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/amersfoort-joins-enl-in-geneva-1312",
+                "picture": "https://api.bannergress.com/bnrs/pictures/2f98a888e460070db9f13cd9d2f9b04a"
+            },
+            "id": "1312"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     10.008397,
                     53.554324
                 ],
