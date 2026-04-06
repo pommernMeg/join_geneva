@@ -85,6 +85,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    10.918418,
+                    44.657004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Modena joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/modena-joins-enl-in-geneva-1f7c",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5826f76fa2c090b049d4fd316095cda1"
+            },
+            "id": "1f7c"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     9.704725,
                     49.562237
                 ],
@@ -128,6 +144,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/ff33bd0e875833a5d9b77d3b5d50bd46"
             },
             "id": "ba6b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    11.340474,
+                    44.495316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bologna joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/bologna-joins-enl-in-geneva-64c5",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5e607f7f8a66749a4d64123b87a37800"
+            },
+            "id": "64c5"
         },
         {
             "type": "Feature",
