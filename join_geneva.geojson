@@ -149,6 +149,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    13.380383,
+                    52.516489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Berlin joins ENL in Geneva ",
+                "url": "https://bannergress.com/banner/berlin-joins-enl-in-geneva-1788",
+                "picture": "https://api.bannergress.com/bnrs/pictures/124b890279d3d88ddf3a0fde38cb86d2"
+            },
+            "id": "1788"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     11.340474,
                     44.495316
                 ],
@@ -192,6 +208,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/97f2a1ef98f02c7921ddb6cce570d053"
             },
             "id": "b597"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    10.887951,
+                    48.365251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Augsburg joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/augsburg-joins-enl-in-geneva-6255",
+                "picture": "https://api.bannergress.com/bnrs/pictures/83ce2567fa6d0668c940e0c397c33ec2"
+            },
+            "id": "6255"
         },
         {
             "type": "Feature",
