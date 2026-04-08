@@ -85,6 +85,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    24.952249,
+                    60.170103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Helsinki joins ENL in Geneva ",
+                "url": "https://bannergress.com/banner/helsinki-joins-enl-in-geneva-387d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/e17712227c4d23248a79188a49389530"
+            },
+            "id": "387d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     10.918418,
                     44.657004
                 ],
