@@ -165,6 +165,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    5.374533,
+                    52.201849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Amersfoort joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/amersfoort-joins-enl-in-geneva-19e1",
+                "picture": "https://api.bannergress.com/bnrs/pictures/bf86051e15cda2713495106bd5381306"
+            },
+            "id": "19e1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     10.918418,
                     44.657004
                 ],
@@ -229,6 +245,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    11.966821,
+                    57.707119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gothenburg joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/gothenburg-joins-enl-in-geneva-eec5",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d30229232bb49337e7213bfec1a775b8"
+            },
+            "id": "eec5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     8.79884,
                     46.169812
                 ],
@@ -288,6 +320,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/5e607f7f8a66749a4d64123b87a37800"
             },
             "id": "64c5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    17.053256,
+                    51.101008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wrocław joins ENL in Geneva",
+                "url": "https://bannergress.com/banner/wrocław-joins-enl-in-geneva-945b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ca806a355dfa041b6e9828ded9002236"
+            },
+            "id": "945b"
         },
         {
             "type": "Feature",
